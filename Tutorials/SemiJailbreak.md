@@ -7,6 +7,16 @@
 ## Bootstrap
 [Main Download](https://github.com/SpinnySpiwal/SpiwalsIPASetup/raw/main/MyApps/Bootstrap.tipa)
 
+# Notes
+Tutorial created by SpinnySpiwal (Discord)
+Device I use: iPhone 13 (A2633)
+iOS Version: iOS 16.6b1 (20G5026e)
+Why did I create this? I wanted Semi-Jailbreaking to be more accessible to the community.
+
+
+## Why Bootstrap Beta 3.1?
+Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far. I use an iPhone 13
+
 # How do I semi jailbreak?
 1. Download Bootstrap Beta 3.1 from [Here.](#bootstrap)
 
