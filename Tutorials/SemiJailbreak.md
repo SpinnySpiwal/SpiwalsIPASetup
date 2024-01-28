@@ -15,7 +15,7 @@ Why did I create this? I wanted Semi-Jailbreaking to be more accessible to the c
 
 
 ## Why Bootstrap Beta 3.1?
-Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far. I use an iPhone 13
+Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far.
 
 # How do I semi jailbreak?
 1. Download Bootstrap Beta 3.1 from [Here.](#bootstrap)
