@@ -14,8 +14,9 @@ iOS Version: iOS 16.6b1 (20G5026e)
 Why did I create this? I wanted Semi-Jailbreaking to be more accessible to the community.
 
 # Compatibility
-Serotonin does not support iOS 17.0, you must be >17.0 & be on a KFD-Supported iOS to Semi-Jailbreak. Bootstrap supports 17.0, and nothing over, bootstrap will work but you cannot use serotonin. Sorry!
-
+Serotonin does not support iOS 17.0, you need to meet the requirements:
+* **On a KFD-Supported iOS Version >iOS 16.7**
+* TrollStore 2 Installed (**Highly** Recommended)
 
 ## Why Bootstrap Beta 3.1?
 Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far.
@@ -39,9 +40,13 @@ Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far.
 
 10. Wait for the button to change to "Userspace Reboot".
 
-
 11. If the app crashes or your phone restarts, go back to step 3.
 
 12. Tap "Userspace Reboot".
 
 13. If all goes well, your device may say "Confidential & Proprietary, Call ..." at the bottom of your iDevice's screen. If it does not, and you don't have a tweak to hide that installed, try again from step 8. If it restarts during that, go back to step 3.
+
+# Congratulations
+Congratulations, you have successfully semi jailbroken your iDevice!
+## What Now?
+Feel free to visit [iOS 16 Supported Tweaks](https://github.com/Loy6410/ios16-tweaks) for some inspiration on what tweaks to use.
