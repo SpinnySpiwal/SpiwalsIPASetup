@@ -48,5 +48,4 @@ Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far.
 
 # Congratulations
 Congratulations, you have successfully semi jailbroken your iDevice!
-  ## What Now?
-  Feel free to visit [iOS 16 Supported Tweaks](https://github.com/Loy6410/ios16-tweaks) for some inspiration on what tweaks to use.
+Feel free to visit [iOS 16 Supported Tweaks](https://github.com/Loy6410/ios16-tweaks) for some inspiration on what tweaks to use.
