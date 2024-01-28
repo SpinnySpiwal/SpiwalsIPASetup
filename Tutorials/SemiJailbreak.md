@@ -50,3 +50,6 @@ Bootstrap Beta 3.1 is the most stable version of bootstrap I have used so far.
 Congratulations, you have successfully semi jailbroken your iDevice!
 
 Feel free to visit [iOS 16 Supported Tweaks](https://github.com/Loy6410/ios16-tweaks) for some inspiration on what tweaks to use.
+
+
+Don't have TrollStore installed? Now is the time! Add the repo `https://havoc.app/` and search TrollStore Helper in Sileo to get started!
