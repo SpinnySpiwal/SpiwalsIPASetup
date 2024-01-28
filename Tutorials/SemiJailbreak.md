@@ -14,7 +14,7 @@ iOS Version: iOS 16.6b1 (20G5026e)
 Why did I create this? I wanted Semi-Jailbreaking to be more accessible to the community.
 
 # Compatibility
-Serotonin does not support iOS 17.0, you must be >17.0 to Semi-Jailbreak. Bootstrap supports 17.0, and nothing over, bootstrap will work but you cannot use serotonin. Sorry!
+Serotonin does not support iOS 17.0, you must be >17.0 & be on a KFD-Supported iOS to Semi-Jailbreak. Bootstrap supports 17.0, and nothing over, bootstrap will work but you cannot use serotonin. Sorry!
 
 
 ## Why Bootstrap Beta 3.1?
