@@ -1,15 +1,16 @@
 # Downloads
 ## Serotonin
 [Latest](https://github.com/mineek/Serotonin)
-  
+
 [Backup (May not be the latest version)](https://github.com/SpinnySpiwal/SpiwalsIPASetup/raw/main/MyApps/Serotonin.tipa)
+
 ## Bootstrap Beta 3.1
 [Main Download](https://github.com/SpinnySpiwal/SpiwalsIPASetup/raw/main/MyApps/Bootstrap.tipa)
 
 # How do I semi jailbreak?
-1. Download Bootstrap Beta 3.1 from [Here.](#downloads)
+1. Download Bootstrap Beta 3.1 from [Here.](#serotonin)
 
-2. Download Serotonin (Latest) from [Here.](#downloads)
+2. Download Serotonin (Latest) from [Here.](#Bootstrap Beta 3.1)
 
 4. Open Bootstrap Beta 3.1.
 
