@@ -8,9 +8,9 @@
 [Main Download](https://github.com/SpinnySpiwal/SpiwalsIPASetup/raw/main/MyApps/Bootstrap.tipa)
 
 # How do I semi jailbreak?
-1. Download Bootstrap Beta 3.1 from [Here.](#serotonin)
+1. Download Bootstrap Beta 3.1 from [Here.](#bootstrap)
 
-2. Download Serotonin (Latest) from [Here.](#bootstrap)
+2. Download Serotonin (Latest) from [Here.](#serotonin)
 
 4. Open Bootstrap Beta 3.1.
 
