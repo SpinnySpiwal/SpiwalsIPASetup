@@ -10,7 +10,7 @@
 # How do I semi jailbreak?
 1. Download Bootstrap Beta 3.1 from [Here.](#serotonin)
 
-2. Download Serotonin (Latest) from [Here.](#Bootstrap Beta 3.1)
+2. Download Serotonin (Latest) from [Here.](#Bootstrap-Beta-3.1)
 
 4. Open Bootstrap Beta 3.1.
 
